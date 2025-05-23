@@ -10,6 +10,7 @@ asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_17332504
 attrs @ file:///croot/attrs_1734533101012/work
 babel @ file:///croot/babel_1737454360933/work
 beautifulsoup4 @ file:///croot/beautifulsoup4-split_1718029820055/work
+biothings_client==0.4.1
 bleach @ file:///croot/bleach_1732290411627/work
 Bottleneck @ file:///croot/bottleneck_1731058641041/work
 Brotli @ file:///croot/brotli-split_1736182456865/work
@@ -39,8 +40,11 @@ geosketch==1.3
 get-annotations @ file:///home/conda/feedstock_root/build_artifacts/get-annotations_1678462242093/work
 graphlib-backport @ file:///croot/graphlib-backport_1687866298110/work
 gseapy @ file:///opt/conda/conda-bld/gseapy_1740818331726/work
+h11==0.16.0
 h5py==3.13.0
 harmonypy @ file:///opt/conda/conda-bld/harmonypy_1720181372159/work
+httpcore==1.0.9
+httpx==0.28.1
 idna @ file:///croot/idna_1714398848350/work
 igraph==0.11.8
 importlib_metadata @ file:///croot/importlib_metadata-suite_1732633488278/work
@@ -80,6 +84,7 @@ matplotlib==3.9.2
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1733416936468/work
 mistune @ file:///opt/conda/conda-bld/mistune_1661496219659/work
 munkres==1.1.4
+mygene==3.2.2
 natsort @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_natsort_1733880463/work
 nbclassic @ file:///croot/nbclassic_1717622582894/work
 nbclient @ file:///croot/nbclient_1741123995822/work

@@ -48,7 +48,9 @@ By leveraging single-cell transcriptomic data, this project disentangles tumor-i
 
 2. `images`: contains pictures of our results.
 
-3. `notebooks`: contains fully documented notebooks to reproduce all analyses.
+3. `python_notebooks`: contains fully documented notebooks to reproduce all analyses.
+
+4. `scripts`: contains R and Python scripts.
 
 ## Introduction
 
